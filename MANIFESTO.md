@@ -55,7 +55,7 @@ Temos diversos projetos onde o principal objetivo é fazer do nosso ambiente, um
     Projeto onde disponibilizamos mais de 5000 vagas no treinamento Descomplicando o Docker, totalmente gratuito.
     
 
-## Estamos sempre atentos 😇
+## Estamos sempre atentos 🧐
 
 ### O que isso significa?
 
