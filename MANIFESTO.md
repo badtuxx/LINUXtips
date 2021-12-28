@@ -1,4 +1,4 @@
-# O Manifesto LINUXtips
+# O Manifesto LINUXtips - 2022
 
 Quer saber o motivo pela qual a LINUXtips existe? Então acho que você precisa ler o que preparamos para você abaixo.
 
