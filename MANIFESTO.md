@@ -12,7 +12,7 @@ Significa capacitar pessoas a conseguirem trabalhar no mercado de Tecnologia da 
 
 Porque por muito tempo, o acesso à informação de qualidade era restrita a pessoas que possuíam um maior poder aquisitivo, e principalmente em TI acontecia um elitismo na forma de ensinar e inclusive, no acesso às oportunidades.
 
-Sabemos que estamos em um país que sofre, infelizmente, de uma grande desigualdade social. Portanto, sabemos o nosso papel na sociedade em ajudar a levar o conhecimento a todos, e sendo assim, não fugimos de nossas responsabilidades e estamos sempre atuando de perto nas comunidades.
+Sabemos que estamos em um país que sofre, infelizmente, de uma grande desigualdade social. Portanto, sabemos o nosso papel na sociedade em ajudar a levar o conhecimento a todes, e sendo assim, não fugimos de nossas responsabilidades e estamos sempre atuando de perto nas comunidades.
 
 Nós sabemos a importância da diversidade em nossa sociedade, e mais do que isso, nós acreditamos que somente é possível ter um ambiente saudável para o aprendizado se estiver dentro de um ambiente diverso. E a diversidade precisa estar em todos os lados, nos estudantes e nos colaboradores da LINUXtips.
 
@@ -20,7 +20,7 @@ Nós sabemos a importância da diversidade em nossa sociedade, e mais do que iss
 
 - **Instrutores referência no mercado e conteúdo com foco na prática**
 
-Os nossos instrutores são pessoas referências em suas áreas, e todos eles continuam atuantes no mercado de trabalho, trabalhando em projetos e empresas gigantes de tecnologia.
+Os nossos instrutores são pessoas referências em suas áreas, e todes eles continuam atuantes no mercado de trabalho, trabalhando em projetos e empresas gigantes de tecnologia.
 
 Todos os treinamentos são focados na prática, pois acreditamos que a melhor forma de aprender algo em tecnologia é reproduzindo, testando, errando, corrigindo e evoluindo rápido.
 
@@ -44,7 +44,7 @@ Temos diversos projetos onde o principal objetivo é fazer do nosso ambiente, um
 
 Sempre estamos focados em oferecer um treinamento de qualidade e atualizado, e o mais importante, que nossos alunos estejam aprendendo da melhor forma. Estamos atentos a nossa sociedade e principalmente em nossas comunidades, tentando fortalecer e torná-la maior e mais inclusiva.
 
-Estamos atentos aos nossos colaboradores, deixando um ambiente de trabalho mais livre. Todos os nossos colaboradores trabalham de forma remota, com o horário de trabalho totalmente flexível e procuramos sempre remunerá-lo de forma justa, oferecendo uma remuneração acima da média do mercado de trabalho e política de bônus.
+Estamos atentos aos nossos colaboradores, deixando um ambiente de trabalho mais livre. Todes os nossos colaboradores trabalham de forma remota, com o horário de trabalho totalmente flexível e procuramos sempre remunerá-lo de forma justa, oferecendo uma remuneração acima da média do mercado de trabalho e política de bônus.
 
 ### **E por que fazemos isso?**
 
@@ -52,7 +52,7 @@ Queremos fazer uma longa jornada juntos, e não somente uma viagem curta. Querem
 
 ### **E como fazemos isso?**
 
-Todos os nossos instrutores são profissionais relevantes no mercado e o mais importante, atuantes na área que ministram o seus treinamentos na LINUXtips.
+Todes os nossos instrutores são profissionais relevantes no mercado e o mais importante, atuantes na área que ministram o seus treinamentos na LINUXtips.
 
 Participamos com frequência das maiores feiras de tecnologia do mundo, para entender quais serão as próximas tendências e o que as maiores e melhores empresas do mundo estão utilizando em seu ambiente. Entender o que os melhores profissionais de tecnologia do mundo estão aprendendo e sobre o que eles estão falando.
 
