@@ -1,4 +1,4 @@
-# O Manifesto LINUXtips
+# O Manifesto LINUXtips - 2022
 
 # **Nós somos a LINUXtips!**
 
