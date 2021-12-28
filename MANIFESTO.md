@@ -1,7 +1,5 @@
 # O Manifesto LINUXtips
 
-Quer saber o motivo pela qual a LINUXtips existe? Então acho que você precisa ler o que preparamos para você abaixo.
-
 # **Nós somos a LINUXtips!**
 
 ## **Nós somos a re-evolução na forma de aprender sobre TI! 👩🏾‍💻**
