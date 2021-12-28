@@ -52,7 +52,7 @@ Queremos fazer uma longa jornada juntos, e não somente uma viagem curta. Querem
 
 ### **E como fazemos isso?**
 
-Todes os nossos instrutores são profissionais relevantes no mercado e o mais importante, atuantes na área que ministram o seus treinamentos na LINUXtips.
+Todes nossos instrutores são profissionais relevantes no mercado e o mais importante, atuantes na área que ministram o seus treinamentos na LINUXtips.
 
 Participamos com frequência das maiores feiras de tecnologia do mundo, para entender quais serão as próximas tendências e o que as maiores e melhores empresas do mundo estão utilizando em seu ambiente. Entender o que os melhores profissionais de tecnologia do mundo estão aprendendo e sobre o que eles estão falando.
 
