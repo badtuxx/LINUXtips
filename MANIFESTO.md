@@ -60,7 +60,7 @@ Estamos sempre apoiando eventos para as comunidades de tecnologia ao redor do Br
 
 Patrocinamos criadores de conteúdo de tecnologia, com o intuito de incentivá-los a continuar o excelente trabalho e divulgar ainda mais conteúdo.
 
-Patrocinamos pessoas esportistas, pois assim como a educação acreditamos que o esporte ajuda a salvar vidas.
+Patrocinamos pessoas esportistas, pois assim como a educação, acreditamos que o esporte ajuda a salvar vidas.
 
 Os nossos colaboradores não possuem um horário fixo e nem uma carga de horas definida por dia para trabalhar, o que temos são objetivos em comum que trabalhamos juntos para alcançá-los, respeitando a individualidade.
 
