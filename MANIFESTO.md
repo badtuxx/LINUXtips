@@ -24,7 +24,7 @@ Os nossos instrutores são pessoas referências em suas áreas, e todes eles con
 
 Todos os treinamentos são focados na prática, pois acreditamos que a melhor forma de aprender algo em tecnologia é reproduzindo, testando, errando, corrigindo e evoluindo rápido.
 
-Os nossos treinamentos são desenhados para que o aluno consiga ter melhores oportunidades profissionais, portanto os nossos treinamentos são somente sobre assuntos que são tendências ou estão em evidência, e principalmente, que são ou serão bastante utilizados no mercado. Treinamos você para aprender tecnologia, é claro. Mas não esquecemos da importância de sua empregabilidade.
+Os nossos treinamentos são desenhados para que o alune consiga ter melhores oportunidades profissionais, portanto os nossos treinamentos são somente sobre assuntos que são tendências ou estão em evidência, e principalmente, que são ou serão bastante utilizados no mercado. Treinamos você para aprender tecnologia, é claro. Mas não esquecemos da importância de sua empregabilidade.
 
 [🧙🏾‍♂️ *Nossos Instrutores e treinamentos* 🧙🏽‍♀️](https://school.linuxtips.io/)
 
@@ -42,13 +42,13 @@ Temos diversos projetos onde o principal objetivo é fazer do nosso ambiente, um
 
 ### **O que isso significa?**
 
-Sempre estamos focados em oferecer um treinamento de qualidade e atualizado, e o mais importante, que nossos alunos estejam aprendendo da melhor forma. Estamos atentos a nossa sociedade e principalmente em nossas comunidades, tentando fortalecer e torná-la maior e mais inclusiva.
+Sempre estamos focados em oferecer um treinamento de qualidade e atualizado, e o mais importante, que nossos alunes estejam aprendendo da melhor forma. Estamos atentos a nossa sociedade e principalmente em nossas comunidades, tentando fortalecer e torná-la maior e mais inclusiva.
 
 Estamos atentos aos nossos colaboradores, deixando um ambiente de trabalho mais livre. Todes os nossos colaboradores trabalham de forma remota, com o horário de trabalho totalmente flexível e procuramos sempre remunerá-lo de forma justa, oferecendo uma remuneração acima da média do mercado de trabalho e política de bônus.
 
 ### **E por que fazemos isso?**
 
-Queremos fazer uma longa jornada juntos, e não somente uma viagem curta. Queremos ter os nossos alunos e colaboradores ‘viajando’ sempre conosco, por muito tempo! Aprendendo diferentes tecnologias e em diferentes fases da sua vida e carreira.
+Queremos fazer uma longa jornada juntos, e não somente uma viagem curta. Queremos ter os nossos alunes e colaboradores ‘viajando’ sempre conosco, por muito tempo! Aprendendo diferentes tecnologias e em diferentes fases da sua vida e carreira.
 
 ### **E como fazemos isso?**
 
