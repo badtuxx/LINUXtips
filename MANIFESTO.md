@@ -34,7 +34,7 @@ Temos diversos projetos onde o principal objetivo é fazer do nosso ambiente, um
 
 - #ChamaAsMina Projeto onde disponibilizamos diversos treinamentos de forma totalmente gratuita para mulheres. Já passaram pelo programa mais de 3000 mulheres
 - Projeto Ubuntu Projeto onde disponibilizamos os mais diversos treinamentos de forma totalmente gratuita para pessoas pretas. Já passaram pelo projeto mais de 2000 pessoas.
-- #MutiraoDevOps Projeto onde disponibilizamos gratuitamente aulas técnicas e de inteligência emocional para mais de 5000 pessoas, contanto com a participação de mentores de diversos países e das mais variadas empresas.
+- #MutiraoDevOps Projeto onde disponibilizamos gratuitamente aulas técnicas e de inteligência emocional para mais de 5000 pessoas, contando com a participação de mentores de diversos países e das mais variadas empresas.
 - #BondeDoCKA Projeto onde treinamos, gratuitamente, mais de 2000 pessoas para aperfeiçoar seus conhecimentos em Kubernetes e se preparar para o exame de certificação oficial do Kubernetes, o CKA.
 - Docker5K Projeto onde disponibilizamos mais de 5000 vagas no treinamento Descomplicando o Docker, totalmente gratuito.
 
